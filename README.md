@@ -15,26 +15,22 @@
 
 </div>
 
----
-
-## Sobre el proyecto
-
-**Fases** es una colección de diarios digitales de autosanación femenina, donde cada edición se inspira en una fase de la luna y en una parte del cuerpo. La premisa: sanar no es una línea recta, es un ciclo.
+**Yo me Creo** será una colección de diarios digitales de autosanación femenina, donde cada edición se inspira en una fase de la luna y en una parte del cuerpo. La premisa: sanar no es una línea recta, es un ciclo.
 
 Esta es la *landing page* de la **Edición Luna Azul**, dedicada al cuerpo completo (hábitos, descanso, movimiento y alimentación) abordados desde un lugar amable. Un acompañamiento de 90 días para reconciliarte con tu cuerpo.
 
 ---
 
-## Características de la página
+## Características de la página web
 
 | Sección | Descripción |
 |---|---|
 | **Hero animado** | Luna flotante con animación y revelado escalonado de texto |
-| **Filosofía** | Presentación del concepto de "fases" y del ciclo de sanación |
+| **Filosofía** | Presentación del concepto de "fases" lunares y del ciclo de sanación |
 | **Qué es** | Explicación del diario con tarjeta visual del producto |
 | **Qué incluye** | Grid de 6 beneficios con micro-interacciones al pasar el cursor |
-| **El camino** | Los 90 días divididos en 4 fases: Reconocer · Soltar · Nutrir · Florecer |
-| **La colección** | Las 5 lunas, con la Luna Azul activa y las demás "próximamente" |
+| **Trayectoria** | 90 días divididos en 4 fases: Reconocer · Soltar · Nutrir · Florecer |
+| **Colección** | Las 5 lunas, con la Luna Azul activa y las demás "próximamente" |
 | **Precio** | Tarjeta de venta con precio de lanzamiento y lista de beneficios |
 | **Captura de correos** | Formulario para muestra gratuita y avisos de nuevas ediciones |
 | **Preguntas frecuentes** | Acordeón desplegable con las dudas más comunes |
